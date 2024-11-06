@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="First">Enter first value</string>
+    <string name="Second">Enter second value</string>
+    <string name="Result">Result</string>
+    <string name="Sum">+</string>
+    <string name="sub">-</string>
+    <string name="Multi">*</string>
+    <string name="divide">/</string>
+    <string name="Mod">%</string>
+
+</resources>
