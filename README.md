@@ -30,4 +30,4 @@ The **Scientific Calculator App** is an advanced calculator for Android that all
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/ScientificCalculatorApp.git
+   git clone https://github.com/NasirAkra/ScientificCalculatorApp.git
